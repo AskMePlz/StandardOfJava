@@ -8,8 +8,3 @@
 3. leader는 스터디 시작 전 답변을 완료한다.
 
 ### 참석자
-
-
-<a href="https://github.com/gyoungeunbae/standardOfJava/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=gyoungeunbae/standardOfJava" />
-</a>
