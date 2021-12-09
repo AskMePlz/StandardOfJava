@@ -8,9 +8,12 @@
 3. leader는 스터디 시작 전 답변을 완료한다.
 
 ## 현황
-### week1
+<details>
+<summary><b>week1</b></summary> 
   👨🏾‍🏫 leader: gyoungeunbae
+<br>
+<br>
   
-  **Q1.** [[6.2.6] 다른 언어에서의 구조체 예시](https://github.com/AskMePlz/standardOfJava/issues/1)
+  **Q1.**  [[6.2.6] 다른 언어에서의 구조체 예시](https://github.com/AskMePlz/standardOfJava/issues/1)
   
   **Q2.** [[6.3.5] static 메서드와 인스턴스 메서드 호출 관련](https://github.com/AskMePlz/standardOfJava/issues/2)
