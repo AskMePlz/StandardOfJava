@@ -10,10 +10,14 @@
 ## 현황
 <details>
 <summary><b>week1</b></summary> 
+  🌞 date: 2021.12.05
+  
   👨🏾‍🏫 leader: gyoungeunbae
 <br>
 <br>
   
-  **Q1.**  [[6.2.6] 다른 언어에서의 구조체 예시](https://github.com/AskMePlz/standardOfJava/issues/1)
+   🙋🏻**Questions**
   
-  **Q2.** [[6.3.5] static 메서드와 인스턴스 메서드 호출 관련](https://github.com/AskMePlz/standardOfJava/issues/2)
+   Q1. [[6.2.6] 다른 언어에서의 구조체 예시](https://github.com/AskMePlz/standardOfJava/issues/1)
+  
+   Q2. [[6.3.5] static 메서드와 인스턴스 메서드 호출 관련](https://github.com/AskMePlz/standardOfJava/issues/2)
