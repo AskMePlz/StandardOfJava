@@ -44,3 +44,21 @@
   
    Q5. [[6.6.1] 변수의 초기화](https://github.com/AskMePlz/standardOfJava/issues/6) 
   </details>
+<details>
+<summary><b>week3</b></summary> 
+<br>
+  
+  🌞 date: 2021.12.19
+  
+  👨🏾‍🏫 leader: peacebestill
+<br>
+<br>
+  
+   🙋🏻**Questions**
+  
+   Q1. [[7.5.1] 다형성의 활용 예시](https://github.com/AskMePlz/standardOfJava/issues/10)
+  
+   Q2. [[7.4.5] abstract - 추상의, 미완성의](https://github.com/AskMePlz/standardOfJava/issues/9)
+  
+   Q3. [[7.1.5] 자식 클래스의 실행파일](https://github.com/AskMePlz/standardOfJava/issues/8)
+</details>  
