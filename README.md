@@ -61,4 +61,20 @@
    Q2. [[7.4.5] abstract - 추상의, 미완성의](https://github.com/AskMePlz/standardOfJava/issues/9)
   
    Q3. [[7.1.5] 자식 클래스의 실행파일](https://github.com/AskMePlz/standardOfJava/issues/8)
+</details>
+
+<details>
+<summary><b>week4</b></summary> 
+<br>
+  
+  🌞 date: 2021.12.26
+  
+  👨🏾‍🏫 leader: HyunJungLee2
+<br>
+<br>
+  
+   🙋🏻**Questions**
+  
+   Q1. [[7.6.2] 모든 추상 메서드를 구현하지 않는다면 자식 또한 추상클래스여야 하는 이유](https://github.com/AskMePlz/StandardOfJava/issues/11)
+
 </details>  
